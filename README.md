@@ -1,7 +1,5 @@
 # 👁️ Foco Perfeito - Sistema de Gestão para Óticas
 
-*(Coloque aqui um print daquela tela de Resumo Geral com o grid 2x2)*
-
 ## 💻 Sobre o Projeto
 O **Foco Perfeito** é um Web App (PWA) desenvolvido para digitalizar e otimizar a gestão de clientes, receitas médicas e fluxo de caixa de uma ótica. 
 
