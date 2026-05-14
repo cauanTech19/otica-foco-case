@@ -25,7 +25,7 @@ O projeto foi construído focando em uma arquitetura leve, sem o uso de framewor
 * **UI/UX Responsiva:** Interface mobile-first desenvolvida do zero, com estados de carregamento (spinners), toasts de feedback e layout adaptativo.
 
 ## 👨‍💻 Autor
-Desenvolvido por **[Seu Nome]**
+Desenvolvido por **[Cauan Justino]**
 * [LinkedIn](https://www.linkedin.com/in/cauan-da-paz-justino-9306b9350/))
 * Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
